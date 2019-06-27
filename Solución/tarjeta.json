@@ -1,0 +1,8 @@
+{
+	"TarjetaCredito": {
+		"Banco": "Banco ADR - VISA",
+		"Numero": ["4035","6721","1237","2351"],
+		"FechaCaducidad": ["2022", "12"],
+		"CVV": "116"
+	}
+}

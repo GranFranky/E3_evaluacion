@@ -1,0 +1,66 @@
+/*  Autor: Fco Javier Pérez Patrón
+    Fecha: 27/06/2019
+    Ejercico evaluación MF0952_2: Publicación de Páginas Web */
+
+body {
+  font-family: Arial, Sans-serif;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+.container {
+  width: 40%;
+  margin: .5em 30%;
+
+}
+
+fieldset {
+  border-radius: 12px;
+  padding: 1em;
+}
+
+em {
+  color: #555;
+}
+
+input,
+label {
+  margin: .5em 0;
+}
+
+#cargaOk {
+  color: #00f;
+}
+
+input:invalid {
+  border: 2px solid #f00;
+}
+
+input:valid {
+  border: 1px solid #0f0;
+}
+
+.btn-group {
+  padding: 1em;
+}
+
+button {
+  margin-right: 1em;
+  width: 7em;
+  padding: .5em;
+  border: 2px solid #777;
+  border-radius: 8px;
+  color: #555;
+  font-weight: 900;
+}
+
+#importar {
+  background-color: #90ee90;
+}
+
+#enviar {
+  background-color: #ffa500;
+}
